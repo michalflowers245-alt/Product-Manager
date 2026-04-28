@@ -1,29 +1,24 @@
 ---
 name: pm-launch-loop
-description: Build a launch and feedback loop for MVP products. Use when the user is close to launch and needs checklists, event tracking, feedback channels, bug triage, and iteration planning.
+description: Prepare a PM launch checklist and early feedback loop. Use when the user is about to ship an MVP and needs launch checks, analytics, feedback collection, and iteration planning.
 license: MIT
 ---
 
 # pm-launch-loop
 
 默认中文输出。
-
-产品上线不是结束，而是真正开始。
+上线不是结束，而是第一轮真实验证的开始。
 
 ## 必须输出
 
-1. 上线前检查清单
-2. SEO / 分享要点
-3. 埋点事件表
-4. 反馈收集渠道
-5. Bug 分级规则
-6. 反馈分类
-7. RICE 回收池
-8. 7 天计划
-9. 30 天计划
+1. 上线前检查
+2. 埋点事件
+3. 反馈入口
+4. Bug 分级
+5. 上线后 7 天计划
+6. 上线后 30 天计划
 
-## 原则
+## 资产
 
-- 数据告诉你发生了什么
-- 反馈告诉你为什么发生
-- 上线后优先看留存、核心使用率、问题反馈
+- 参考方法：`references/launch-loop-principles.md`
+- 输出模板：`templates/launch-checklist.md`

@@ -7,7 +7,6 @@ license: MIT
 # pm-interview
 
 默认中文输出。
-
 遵循真实访谈法：
 
 - 谈过去，不谈未来
@@ -24,6 +23,11 @@ license: MIT
 6. 禁问问题
 7. 访谈记录模板
 8. 证据标签
+
+## 资产
+
+- 参考方法：`references/interview-rules.md`
+- 输出模板：`templates/interview-note-template.md`
 
 ## 不要做的事
 
