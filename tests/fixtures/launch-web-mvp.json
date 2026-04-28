@@ -1,0 +1,8 @@
+{
+  "product": "宿舍二手交易 Web MVP",
+  "launch_date": "2026-05-20",
+  "channels": ["微信群", "小红书", "GitHub"],
+  "platform": "Web",
+  "privacy": "中等，含联系方式",
+  "analytics": "Umami"
+}

@@ -1,0 +1,11 @@
+name: Bug
+description: Report a bug in a skill, example, or repository workflow
+title: "[Bug] "
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Problem
+      description: What broke?
+    validations:
+      required: true

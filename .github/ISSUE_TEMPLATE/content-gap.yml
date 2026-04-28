@@ -1,0 +1,11 @@
+name: Content gap
+description: Report missing PM examples, references, or scenario coverage
+title: "[Gap] "
+body:
+  - type: textarea
+    id: gap
+    attributes:
+      label: Missing coverage
+      description: Which PM scenario or example is missing?
+    validations:
+      required: true

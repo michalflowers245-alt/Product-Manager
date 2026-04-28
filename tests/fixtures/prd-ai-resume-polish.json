@@ -1,0 +1,14 @@
+{
+  "product_name": "AI Resume Polish",
+  "goal": "帮助应届生在24小时内完成多岗位定制简历",
+  "persona": "毕业1年内求职者",
+  "evidence": "求职群里很多人会反复改简历但没有结构化方法",
+  "features": [
+    "上传简历",
+    "岗位JD匹配",
+    "优化建议",
+    "导出PDF"
+  ],
+  "platform": "Web",
+  "constraints": "1名PM + 1名AI开发，两周首版"
+}
