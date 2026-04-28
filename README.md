@@ -1,5 +1,8 @@
 # PM Vibe Skills
 
+[![CI](https://github.com/michalflowers245-alt/Product-Manager/actions/workflows/ci.yml/badge.svg)](https://github.com/michalflowers245-alt/Product-Manager/actions/workflows/ci.yml)
+[![Release](https://github.com/michalflowers245-alt/Product-Manager/actions/workflows/release.yml/badge.svg)](https://github.com/michalflowers245-alt/Product-Manager/actions/workflows/release.yml)
+
 像产品经理一样，把模糊想法变成可验证需求、可执行 PRD、可上线 MVP 与可复盘作品。
 
 适合人群：
@@ -88,6 +91,8 @@ pm-vibe-skills/
 ## 下一步
 
 1. 先看 [skill-map.md](C:/Users/34456/Documents/New%20project/pm-vibe-skills/docs/skill-map.md)
-2. 选一个模块试用
-3. 把示例输出接到你的项目里
-4. 逐步补 tests、examples 和 Actions
+2. 再看 [quickstart.md](C:/Users/34456/Documents/New%20project/pm-vibe-skills/docs/quickstart.md)
+3. 对照 [examples/README.md](C:/Users/34456/Documents/New%20project/pm-vibe-skills/docs/examples/README.md)
+4. 参考 [releases.md](C:/Users/34456/Documents/New%20project/pm-vibe-skills/docs/releases.md) 规划后续迭代
+5. 选一个模块试用
+6. 把示例输出接到你的项目里
